@@ -1,0 +1,27 @@
+# RAG File Tracker Configuration
+# Copy this file and edit paths for your project.
+
+# List of folders to scan for files (absolute paths recommended)
+source_folders:
+  - /Users/E.Madhavan2/Documents/UpdatedFiles/data/
+  
+  # Add more folders as needed:
+  # - /another/folder/to/watch
+
+# Directory where scan JSON files are stored
+scans_dir: ./data/scans
+
+# Glob patterns for files/folders to exclude from scanning
+exclude_patterns:
+  - "*.pyc"
+  - "__pycache__"
+  - ".DS_Store"
+  - ".git"
+  - ".venv"
+  - "*.tmp"
+  - "*.swp"
+  - "node_modules"
+  - "*.log"
+
+# Logging level: DEBUG, INFO, WARNING, ERROR
+log_level: DEBUG

@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "file-tracker"
+version = "1.0.0"
+description = "Reusable file change detector for RAG vector update pipelines"
+requires-python = ">=3.10"
+dependencies = [
+    "pyyaml>=6.0",
+]
+
+[project.scripts]
+file-tracker = "file_tracker.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["file_tracker*"]

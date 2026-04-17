@@ -1,0 +1,67 @@
+2026-04-14 18:12:04 | INFO     | file_tracker.runner | === File Tracker — Scan Started ===
+2026-04-14 18:12:04 | INFO     | file_tracker.runner | Config: /Users/E.Madhavan2/Documents/UpdatedFiles/config.yaml
+2026-04-14 18:12:04 | INFO     | file_tracker.runner | Source folders: ['/Users/E.Madhavan2/Documents/UpdatedFiles/data']
+2026-04-14 18:12:04 | INFO     | file_tracker.scanner | Scanning folder: /Users/E.Madhavan2/Documents/UpdatedFiles/data
+2026-04-14 18:12:04 | INFO     | file_tracker.scanner | Scan complete: 4 files found
+2026-04-14 18:12:04 | INFO     | file_tracker.runner | No previous scan found — this is the first run
+2026-04-14 18:12:04 | DEBUG    | file_tracker.detector | New file: /Users/E.Madhavan2/Documents/UpdatedFiles/data/testing/1.docx
+2026-04-14 18:12:04 | DEBUG    | file_tracker.detector | New file: /Users/E.Madhavan2/Documents/UpdatedFiles/data/testing/test.txt
+2026-04-14 18:12:04 | DEBUG    | file_tracker.detector | New file: /Users/E.Madhavan2/Documents/UpdatedFiles/data/testing/3.md
+2026-04-14 18:12:04 | DEBUG    | file_tracker.detector | New file: /Users/E.Madhavan2/Documents/UpdatedFiles/data/testing/2.pdf
+2026-04-14 18:12:04 | INFO     | file_tracker.runner | Scan JSON written: /Users/E.Madhavan2/Documents/UpdatedFiles/data/scans/scan_2026-04-14T12-42-04.json
+2026-04-14 18:12:04 | INFO     | file_tracker.runner | Summary — total: 4, pending: 4, processed: 0, deleted: 0, new: 4, modified: 0
+2026-04-14 18:12:04 | INFO     | file_tracker.runner | === Scan Complete ===
+2026-04-14 18:17:20 | INFO     | file_tracker.runner | === File Tracker — Scan Started ===
+2026-04-14 18:17:20 | INFO     | file_tracker.runner | Config: /Users/E.Madhavan2/Documents/UpdatedFiles/config.yaml
+2026-04-14 18:17:20 | INFO     | file_tracker.runner | Source folders: ['/Users/E.Madhavan2/Documents/UpdatedFiles/data']
+2026-04-14 18:17:20 | INFO     | file_tracker.scanner | Scanning folder: /Users/E.Madhavan2/Documents/UpdatedFiles/data
+2026-04-14 18:17:20 | INFO     | file_tracker.scanner | Scan complete: 5 files found
+2026-04-14 18:17:20 | INFO     | file_tracker.runner | Previous scan loaded: scan_2026-04-14T12-42-04
+2026-04-14 18:17:20 | DEBUG    | file_tracker.detector | New file: /Users/E.Madhavan2/Documents/UpdatedFiles/data/scans/scan_2026-04-14T12-42-04.json
+2026-04-14 18:17:20 | INFO     | file_tracker.runner | Scan JSON written: /Users/E.Madhavan2/Documents/UpdatedFiles/data/scans/scan_2026-04-14T12-47-20.json
+2026-04-14 18:17:20 | INFO     | file_tracker.runner | Summary — total: 5, pending: 4, processed: 1, deleted: 0, new: 1, modified: 0
+2026-04-14 18:17:20 | INFO     | file_tracker.runner | === Scan Complete ===
+2026-04-14 18:19:29 | INFO     | file_tracker.runner | === File Tracker — Scan Started ===
+2026-04-14 18:19:29 | INFO     | file_tracker.runner | Config: /Users/E.Madhavan2/Documents/UpdatedFiles/config.yaml
+2026-04-14 18:19:29 | INFO     | file_tracker.runner | Source folders: ['/Users/E.Madhavan2/Documents/UpdatedFiles/data']
+2026-04-14 18:19:29 | INFO     | file_tracker.scanner | Scanning folder: /Users/E.Madhavan2/Documents/UpdatedFiles/data
+2026-04-14 18:19:29 | INFO     | file_tracker.scanner | Scan complete: 5 files found
+2026-04-14 18:19:29 | INFO     | file_tracker.runner | Previous scan loaded: scan_2026-04-14T12-47-20
+2026-04-14 18:19:29 | DEBUG    | file_tracker.detector | New file: /Users/E.Madhavan2/Documents/UpdatedFiles/data/scans/scan_2026-04-14T12-47-20.json
+2026-04-14 18:19:29 | INFO     | file_tracker.runner | Scan JSON written: /Users/E.Madhavan2/Documents/UpdatedFiles/data/scans/scan_2026-04-14T12-49-29.json
+2026-04-14 18:19:29 | INFO     | file_tracker.runner | Summary — total: 6, pending: 4, processed: 1, deleted: 1, new: 1, modified: 0
+2026-04-14 18:19:29 | INFO     | file_tracker.runner | === Scan Complete ===
+2026-04-14 18:20:08 | INFO     | file_tracker.runner | === File Tracker — Scan Started ===
+2026-04-14 18:20:08 | INFO     | file_tracker.runner | Config: /Users/E.Madhavan2/Documents/UpdatedFiles/config.yaml
+2026-04-14 18:20:08 | INFO     | file_tracker.runner | Source folders: ['/Users/E.Madhavan2/Documents/UpdatedFiles/data']
+2026-04-14 18:20:08 | INFO     | file_tracker.scanner | Scanning folder: /Users/E.Madhavan2/Documents/UpdatedFiles/data
+2026-04-14 18:20:08 | INFO     | file_tracker.scanner | Scan complete: 6 files found
+2026-04-14 18:20:08 | INFO     | file_tracker.runner | Previous scan loaded: scan_2026-04-14T12-49-29
+2026-04-14 18:20:08 | DEBUG    | file_tracker.detector | New file: /Users/E.Madhavan2/Documents/UpdatedFiles/data/scans/scan_2026-04-14T12-49-29.json
+2026-04-14 18:20:08 | DEBUG    | file_tracker.detector | Modified file: /Users/E.Madhavan2/Documents/UpdatedFiles/data/testing/test.txt
+2026-04-14 18:20:08 | INFO     | file_tracker.runner | Scan JSON written: /Users/E.Madhavan2/Documents/UpdatedFiles/data/scans/scan_2026-04-14T12-50-08.json
+2026-04-14 18:20:08 | INFO     | file_tracker.runner | Summary — total: 7, pending: 5, processed: 1, deleted: 1, new: 1, modified: 1
+2026-04-14 18:20:08 | INFO     | file_tracker.runner | === Scan Complete ===
+2026-04-15 11:12:48 | INFO     | file_tracker.runner | === File Tracker — Scan Started ===
+2026-04-15 11:12:48 | INFO     | file_tracker.runner | Config: /Users/E.Madhavan2/Documents/UpdatedFiles/config.yaml
+2026-04-15 11:12:48 | INFO     | file_tracker.runner | Source folders: ['/Users/E.Madhavan2/Documents/UpdatedFiles/data']
+2026-04-15 11:12:48 | INFO     | file_tracker.scanner | Scanning folder: /Users/E.Madhavan2/Documents/UpdatedFiles/data
+2026-04-15 11:12:48 | INFO     | file_tracker.scanner | Scan complete: 7 files found
+2026-04-15 11:12:48 | INFO     | file_tracker.runner | Previous scan loaded: scan_2026-04-14T12-50-08
+2026-04-15 11:12:48 | DEBUG    | file_tracker.detector | New file: /Users/E.Madhavan2/Documents/UpdatedFiles/data/scans/scan_2026-04-14T12-50-08.json
+2026-04-15 11:12:48 | INFO     | file_tracker.runner | Scan JSON written: /Users/E.Madhavan2/Documents/UpdatedFiles/data/scans/scan_2026-04-15T05-42-48.json
+2026-04-15 11:12:48 | INFO     | file_tracker.runner | Summary — total: 8, pending: 6, processed: 1, deleted: 1, new: 1, modified: 0
+2026-04-15 11:12:48 | INFO     | file_tracker.runner | === Scan Complete ===
+2026-04-15 11:13:28 | INFO     | file_tracker.runner | === File Tracker — Scan Started ===
+2026-04-15 11:13:28 | INFO     | file_tracker.runner | Config: /Users/E.Madhavan2/Documents/UpdatedFiles/config.yaml
+2026-04-15 11:13:28 | INFO     | file_tracker.runner | Source folders: ['/Users/E.Madhavan2/Documents/UpdatedFiles/data']
+2026-04-15 11:13:28 | INFO     | file_tracker.scanner | Scanning folder: /Users/E.Madhavan2/Documents/UpdatedFiles/data
+2026-04-15 11:13:28 | INFO     | file_tracker.scanner | Scan complete: 4 files found
+2026-04-15 11:13:28 | INFO     | file_tracker.runner | No previous scan found — this is the first run
+2026-04-15 11:13:28 | DEBUG    | file_tracker.detector | New file: /Users/E.Madhavan2/Documents/UpdatedFiles/data/testing/1.docx
+2026-04-15 11:13:28 | DEBUG    | file_tracker.detector | New file: /Users/E.Madhavan2/Documents/UpdatedFiles/data/testing/test.txt
+2026-04-15 11:13:28 | DEBUG    | file_tracker.detector | New file: /Users/E.Madhavan2/Documents/UpdatedFiles/data/testing/3.md
+2026-04-15 11:13:28 | DEBUG    | file_tracker.detector | New file: /Users/E.Madhavan2/Documents/UpdatedFiles/data/testing/2.pdf
+2026-04-15 11:13:28 | INFO     | file_tracker.runner | Scan JSON written: /Users/E.Madhavan2/Documents/UpdatedFiles/data/scans/scan_2026-04-15T05-43-28.json
+2026-04-15 11:13:28 | INFO     | file_tracker.runner | Summary — total: 4, pending: 4, processed: 0, deleted: 0, new: 4, modified: 0
+2026-04-15 11:13:28 | INFO     | file_tracker.runner | === Scan Complete ===

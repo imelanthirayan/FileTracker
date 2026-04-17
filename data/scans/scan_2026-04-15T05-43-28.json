@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "scan_id": "scan_2026-04-15T05-43-28",
+  "scan_timestamp": "2026-04-15T05:43:28",
+  "previous_scan_id": null,
+  "source_folders": [
+    "/Users/E.Madhavan2/Documents/UpdatedFiles/data"
+  ],
+  "files": {
+    "/Users/E.Madhavan2/Documents/UpdatedFiles/data/testing/1.docx": {
+      "mtime": 1776170499.1051662,
+      "size": 16,
+      "sha256": "af9ab80ea60a0ff1f5d298af805e70925db144627915223f01d725e83494593f",
+      "status": "pending",
+      "reason": "new",
+      "first_seen": "2026-04-15T05:43:28",
+      "last_modified": "2026-04-15T05:43:28",
+      "processed_at": null
+    },
+    "/Users/E.Madhavan2/Documents/UpdatedFiles/data/testing/test.txt": {
+      "mtime": 1776171005.4763947,
+      "size": 17,
+      "sha256": "505e67f8ede07e30288af4a96a2f407f5397a6790164956a56b5145afee9580f",
+      "status": "pending",
+      "reason": "new",
+      "first_seen": "2026-04-15T05:43:28",
+      "last_modified": "2026-04-15T05:43:28",
+      "processed_at": null
+    },
+    "/Users/E.Madhavan2/Documents/UpdatedFiles/data/testing/3.md": {
+      "mtime": 1776160436.96143,
+      "size": 11,
+      "sha256": "d4cd116c360219eb70ecb1fff720a25d0e041644169680e6163768e269593e42",
+      "status": "pending",
+      "reason": "new",
+      "first_seen": "2026-04-15T05:43:28",
+      "last_modified": "2026-04-15T05:43:28",
+      "processed_at": null
+    },
+    "/Users/E.Madhavan2/Documents/UpdatedFiles/data/testing/2.pdf": {
+      "mtime": 1776160419.1330729,
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "status": "pending",
+      "reason": "new",
+      "first_seen": "2026-04-15T05:43:28",
+      "last_modified": "2026-04-15T05:43:28",
+      "processed_at": null
+    }
+  },
+  "summary": {
+    "total_files": 4,
+    "pending": 4,
+    "processed": 0,
+    "deleted": 0,
+    "new_this_scan": 4,
+    "modified_this_scan": 0
+  }
+}

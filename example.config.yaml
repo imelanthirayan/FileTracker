@@ -1,0 +1,15 @@
+# Example config.yaml for File Tracker
+
+source_folders:
+  - ./data/testing
+  - ./data/other_folder
+
+scans_dir: ./data/scans
+exclude_patterns:
+  - "*.pyc"
+  - "__pycache__"
+  - ".DS_Store"
+  - ".git"
+  - ".venv"
+  - "*.tmp"
+log_level: INFO
